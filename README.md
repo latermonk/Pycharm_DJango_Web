@@ -2,7 +2,7 @@
 
 ##    Django3.1教程
 
- 
+https://docs.djangoproject.com/zh-hans/3.1/       
 https://docs.djangoproject.com/en/3.1/     
 
 
