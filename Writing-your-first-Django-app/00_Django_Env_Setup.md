@@ -3,6 +3,8 @@
 ```
 docker run -d -P --name django_start     ibackchina2018/ubuntu-sshd-python3:1804
 ```
+
+
 ##  Portainer 查看端口并登陆或者通过docker ps -a查看
 
 [http://127.0.0.1:9000/#!/1/docker/containers](http://127.0.0.1:9000/#!/1/docker/containers)
@@ -92,5 +94,8 @@ django-admin startproject mysite
 ```
 python manage.py startapp polls
 ```
+
+
+![django_dirtctory_tree](_images/django_dirtctory_tree.jpg)
 
 
