@@ -15,3 +15,11 @@ https://docs.djangoproject.com/zh-hans/3.1/intro/tutorial02/
 
 
 
+```
+pip3 install virtualenv
+
+virtualenv env
+
+source env/bin/activate
+
+```
