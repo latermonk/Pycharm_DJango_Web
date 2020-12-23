@@ -13,10 +13,20 @@ https://docs.djangoproject.com/zh-hans/3.1/intro/tutorial02/
 
 #  virtualenv 使用指南
 
+##  安装  virtualenv
 
 
 ```
 pip3 install virtualenv
+
+```
+
+
+##  创建虚拟环境
+
+```
+
+
 
 virtualenv env
 
