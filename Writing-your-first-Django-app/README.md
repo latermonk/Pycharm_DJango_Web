@@ -30,6 +30,9 @@ pip3 install virtualenv
 
 virtualenv env
 
+virtualenv venv --python=python3.6 [指定特定的python版本]    
+
+
 source env/bin/activate
 
 ```
