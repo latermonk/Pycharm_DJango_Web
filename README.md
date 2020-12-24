@@ -1,5 +1,8 @@
 # Pycharm_DJango_Web
 
+#  Django3.1教程  -- 刘江的博客   
+https://www.liujiangblog.com/course/django/2     
+   
 
 
 #  视频教程
