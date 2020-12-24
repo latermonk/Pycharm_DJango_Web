@@ -33,3 +33,8 @@ virtualenv env
 source env/bin/activate
 
 ```
+
+
+
+## 配置pycharm使用已有的虚拟环境
+
