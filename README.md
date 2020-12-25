@@ -23,6 +23,15 @@
 **YouTube视频教程**
 - Django bootcamp 
 
+
+
+**B站视频**
+2020全新 零基础玩转Python_Django （django快速上手）    
+https://www.bilibili.com/video/BV1Uz411e7Cb      
+
+
+
+
 ****
 
 
