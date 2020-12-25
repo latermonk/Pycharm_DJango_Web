@@ -21,13 +21,13 @@
 - 项目实战二： 资产管理系统
 
 **YouTube视频教程**
-- Django bootcamp 
-https://www.youtube.com/watch?v=RUMohoZzNLc&list=PLEsfXFp6DpzT-1RVQVsL7C2XGMeQzfqAL    
+- Django bootcamp     
+https://www.youtube.com/watch?v=RUMohoZzNLc&list=PLEsfXFp6DpzT-1RVQVsL7C2XGMeQzfqAL        
 
 
-**B站视频**
-2020全新 零基础玩转Python_Django （django快速上手）    
-https://www.bilibili.com/video/BV1Uz411e7Cb      
+**B站视频**   
+2020全新 零基础玩转Python_Django （django快速上手）       
+https://www.bilibili.com/video/BV1Uz411e7Cb         
 
 
 
