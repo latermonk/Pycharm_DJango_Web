@@ -22,7 +22,7 @@
 
 **YouTube视频教程**
 - Django bootcamp 
-
+https://www.youtube.com/watch?v=RUMohoZzNLc&list=PLEsfXFp6DpzT-1RVQVsL7C2XGMeQzfqAL    
 
 
 **B站视频**
