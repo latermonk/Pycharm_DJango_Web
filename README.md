@@ -13,12 +13,18 @@
 - 入门教程
 - 进阶教程
 
+https://docs.djangoproject.com/zh-hans/3.1/   
+
+
 **刘江博客**
 - 新手入门教程 - 图文教程
 - 第一个django应用
 - 进阶教程- -    查资料
 - 项目实战一： 用户注册登录
 - 项目实战二： 资产管理系统
+
+https://www.liujiangblog.com/course/django/2    
+
 
 **YouTube视频教程**
 - Django bootcamp     
