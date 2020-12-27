@@ -1,6 +1,8 @@
-#   Django3.1新手图文入门教程
+#   Django3.1新手视频入门教程
 
-https://www.liujiangblog.com/blog/36/
+https://www.bilibili.com/video/BV18A411p7pP/     
+
+
 
 
 
