@@ -2,6 +2,8 @@
 https://www.bilibili.com/video/BV1ga4y1n7Mp
 
 
+![Docker-Django-Env-Start](_images/Docker-Django-Env-Start.jpg)
+
 
 #  环境准备 - 启动Ubuntu docker
 
