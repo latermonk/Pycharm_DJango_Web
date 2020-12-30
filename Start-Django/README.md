@@ -4,5 +4,10 @@ https://www.bilibili.com/video/BV18A411p7pP/
 
 
 
+![Django-bootcamp](_imges/Django-bootcamp.jpg)
+
+
+
+
 
 
