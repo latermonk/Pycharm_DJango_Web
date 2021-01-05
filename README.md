@@ -1,6 +1,9 @@
+#  Mozilla 
+https://developer.mozilla.org/en-US/docs/Learn
+
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django   
 
-![pipenv](_images/pipenv.jpg)
+
 
 
 #   Django3.1目前进度
@@ -79,4 +82,11 @@ https://docs.djangoproject.com/en/3.1/
 
 **中文版**    
 https://www.liujiangblog.com/course/django/2   
+
+
+
+---- 
+
+
+![pipenv](_images/pipenv.jpg)
 
