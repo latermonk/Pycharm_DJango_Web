@@ -9,6 +9,18 @@ https://installpython3.com/
 
 
 
+#  Python3.8 DOCKER
+
+```
+
+docker run -d -P --name test_sshd    ibackchina2018/ubuntu-sshd-python38:1804
+
+```
+
+
+
+
+
 
 
 
