@@ -1,4 +1,15 @@
-#  Python3  
+# INSTALL  Python3  
+
+```
+$ sudo add-apt-repository ppa:deadsnakes/ppa
+$ sudo apt-get update
+$ sudo apt install python3.8
+
+```
+
+
+
+
 
 ```
 https://installpython3.com/
