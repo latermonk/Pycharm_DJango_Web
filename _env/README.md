@@ -1,3 +1,9 @@
+#   MINICONDA  INSTALl
+
+https://docs.conda.io/en/latest/miniconda.html   
+
+
+
 # INSTALL  Python3  
 
 ```
