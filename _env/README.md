@@ -1,3 +1,10 @@
+#  Ubuntu 系统上 Python 项目开发本地虚拟环境管理方案： pyenv + pipenv     
+
+https://blog.csdn.net/haiiiiiyun/article/details/104794254   
+
+
+
+
 #   MINICONDA  INSTALl
 
 https://docs.conda.io/en/latest/miniconda.html   
