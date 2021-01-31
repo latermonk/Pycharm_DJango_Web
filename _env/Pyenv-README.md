@@ -3,10 +3,6 @@ https://github.com/pyenv/pyenv-installer
 
 
 
-#  INSTALL
-https://github.com/pyenv/pyenv#installation
-
-
 
 
 ```
@@ -23,3 +19,11 @@ eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
 
 ```
+
+
+
+#  INSTALL
+https://github.com/pyenv/pyenv#installation
+
+
+
