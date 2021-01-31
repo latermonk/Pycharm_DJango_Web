@@ -1,3 +1,13 @@
+# AUTO   INSTALL
+https://github.com/pyenv/pyenv-installer
+
+
+
+#  INSTALL
+https://github.com/pyenv/pyenv#installation
+
+
+
 
 ```
 curl https://pyenv.run | bash
